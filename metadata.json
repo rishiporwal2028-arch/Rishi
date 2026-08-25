@@ -1,0 +1,6 @@
+{
+  "name": "PortfolioPilot AI",
+  "description": "An AI Operating Partner for VC/PE firms to monitor portfolio companies, detect risks, generate insights, and recommend actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
